@@ -14,7 +14,11 @@ function App() {
 		setFeedback(feedback + 1);
   };
 
-  return ;
+  return (
+    <div className="yes">
+      Hello
+    </div>
+  );
 }
 export default App
 
