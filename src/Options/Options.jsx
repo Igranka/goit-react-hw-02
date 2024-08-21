@@ -8,7 +8,7 @@ function Options ({ updateFeedback, handleReset, total }) {
             className={css.btn}
             onClick={() => updateFeedback("good")}
         >
-            Good: 
+            Good 
         </button>
         
         <button

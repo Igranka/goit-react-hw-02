@@ -21,7 +21,7 @@ function Feedback({ feedback: { good, neutral, bad }, total, positive }) {
                 </li>
 
                 <li className={css.item}>
-                    Positive: {positive}
+                    Positive: {positive}%
                 </li>    
             </ul>
         </div>
