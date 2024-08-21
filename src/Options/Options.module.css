@@ -9,4 +9,5 @@
 
 .btn:hover {
     background-color:blue;
+    box-shadow: 0 0 5px rgba(33, 33, 33, .8);;
 }
